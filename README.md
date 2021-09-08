@@ -13,4 +13,3 @@ Website: http://hano.cf/
 ## Demo
 
 Watch it on YouTube [Rice Color Sorting Machine](https://youtu.be/niVEP04_s1g)
- 
