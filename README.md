@@ -1,5 +1,9 @@
 # Rice Color Sorting Machine
 
+v2: 3m
+
+v1: 1m
+
 ## Contact
 
 Name: Hoan Tran
@@ -12,4 +16,8 @@ Website: http://hano.cf/
 
 ## Demo
 
-Watch it on YouTube [Rice Color Sorting Machine](https://youtu.be/niVEP04_s1g)
+Watch it on YouTube 
+
+[Rice Color Sorting Machine v2](https://youtu.be/iLk0q_B8HnQ)
+
+[Rice Color Sorting Machine v1](https://youtu.be/ar3fh6JZHm4)
